@@ -1,0 +1,11 @@
+{
+    "name": "Full-Black-PUBG-Costume",
+    "category": "client",
+    "description": "This mod will change the appearance of the PUBG event costume, making it full black.",
+    "author": "Raven",
+    "options": {
+        "guiName": "Costume: Full Black PUBG Costume",
+        "niceName": "Full Black PUBG Costume"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Full-Black-PUBG-Costume/master/"]
+}
